@@ -159,5 +159,5 @@ docker run -d --name midjourney-proxy \
 - [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
 - [midjourney-proxy](https://github.com/novicezk/midjourney-proxy)
 
-## 开源协议
+# 开源协议
 [Anti 996 LICENSE](./LICENSE)
